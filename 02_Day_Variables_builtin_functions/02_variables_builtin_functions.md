@@ -297,4 +297,4 @@ Number data types in Python:
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 1](../readme.md) | [Day 3 >>](../03_Day_Operators/03_operators.md)
+
