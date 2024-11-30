@@ -3,9 +3,6 @@
 </div>
 
 
-
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
-
 - [📘 Day 2](#-day-2)
   - [Built in functions](#built-in-functions)
   - [Variables](#variables)
