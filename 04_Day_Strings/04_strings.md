@@ -583,8 +583,3 @@ The area of a circle with radius 10 is 314 meters square.
 8 ** 6 = 262144
 ```
 
-🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 3](../03_Day_Operators/03_operators.md) | [Day 5 >>](../05_Day_Lists/05_lists.md)
-
-
