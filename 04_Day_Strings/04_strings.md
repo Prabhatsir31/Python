@@ -2,8 +2,6 @@
   <h1> 30 Days Of Python: Day 4 - Strings</h1>
 </div>
 
-[<< Day 3](../03_Day_Operators/03_operators.md) | [Day 5 >>](../05_Day_Lists/05_lists.md)
-
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
 - [Day 4](#day-4)
