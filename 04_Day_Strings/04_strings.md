@@ -2,8 +2,6 @@
   <h1> 30 Days Of Python: Day 4 - Strings</h1>
 </div>
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
-
 - [Day 4](#day-4)
   - [Strings](#strings)
     - [Creating a String](#creating-a-string)
