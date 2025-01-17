@@ -1,12 +1,7 @@
 <div align="center">
   <h1> 30 Days Of Python: Day 7 - Sets</h1>
- 
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> Second Edition: July, 2021</small>
-</sub>
-
 </div>
+
 - [📘 Day 7](#-day-7)
   - [Sets](#sets)
     - [Creating a Set](#creating-a-set)
