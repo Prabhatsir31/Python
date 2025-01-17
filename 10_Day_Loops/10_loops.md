@@ -13,7 +13,6 @@
 </sub>
 </div>
 
-[<< Day 9](../09_Day_Conditionals/09_conditionals.md) | [Day 11 >>](../11_Day_Functions/11_functions.md)
 
 - [📘 Day 10](#-day-10)
   - [Loops](#loops)
