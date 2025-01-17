@@ -2,7 +2,7 @@
   <h1> 30 Days Of Python: Day 4 - Strings</h1>
 </div>
 
-- [Day 4](#day-4)
+- [📘 Day 4](#day-4)
   - [Strings](#strings)
     - [Creating a String](#creating-a-string)
     - [String Concatenation](#string-concatenation)
