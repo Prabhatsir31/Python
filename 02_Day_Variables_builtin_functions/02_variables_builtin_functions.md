@@ -2,7 +2,6 @@
   <h1> 30 Days Of Python: Day 2 - Variables, Builtin Functions</h1>
 </div>
 
-
 - [📘 Day 2](#-day-2)
   - [Built in functions](#built-in-functions)
   - [Variables](#variables)
