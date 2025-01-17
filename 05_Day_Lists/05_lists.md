@@ -2,9 +2,7 @@
   <h1> 30 Days Of Python: Day 5 - Lists</h1>
 </div>
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
-
-- [Day 5](#day-5)
+- [📘 Day 5](#day-5)
   - [Lists](#lists)
     - [How to Create a List](#how-to-create-a-list)
     - [Accessing List Items Using Positive Indexing](#accessing-list-items-using-positive-indexing)
