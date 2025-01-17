@@ -2,8 +2,6 @@
   <h1> 30 Days Of Python: Day 3 - Operators</h1>
 </div>
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
-
 - [📘 Day 3](#-day-3)
   - [Boolean](#boolean)
   - [Operators](#operators)
