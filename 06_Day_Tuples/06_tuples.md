@@ -8,7 +8,7 @@
 
 </div>
 
-[<< Day 5](../05_Day_Lists/05_lists.md) | [Day 7 >>](../07_Day_Sets/07_sets.md)
+
 
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
