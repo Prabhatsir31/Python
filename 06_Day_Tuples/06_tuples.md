@@ -7,10 +7,6 @@
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
   </a>
 
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> Second Edition: July, 2021</small>
-</sub>
 
 </div>
 
@@ -18,7 +14,7 @@
 
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
-- [Day 6:](#day-6)
+- [📘 Day 6](#day-6)
   - [Tuples](#tuples)
     - [Creating a Tuple](#creating-a-tuple)
     - [Tuple length](#tuple-length)
