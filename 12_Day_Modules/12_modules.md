@@ -282,7 +282,3 @@ print(rgb_color_gen())
 
 1. Call your function shuffle_list, it takes a list as a parameter and it returns a shuffled list
 1. Write a function which returns an array of seven random numbers in a range of 0-9. All the numbers must be unique.
-
-🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 11](../11_Day_Functions/11_functions.md) | [Day 13>>](../13_Day_List_comprehension/13_list_comprehension.md)
