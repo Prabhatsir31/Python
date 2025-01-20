@@ -410,8 +410,3 @@ age = [22, 19, 24, 25, 26, 24, 25, 24]
 1. Convert the ages to a set and compare the length of the list and the set, which one is bigger?
 1. Explain the difference between the following data types: string, list, tuple and set
 2. _I am a teacher and I love to inspire and teach people._ How many unique words have been used in the sentence? Use the split methods and set to get the unique words.
-
-
-🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 6](../06_Day_Tuples/06_tuples.md) | [Day 8 >>](../08_Day_Dictionaries/08_dictionaries.md)
