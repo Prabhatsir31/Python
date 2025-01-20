@@ -435,7 +435,3 @@ print(sum_all_numbers(100)) # 5050
 
 - Create a function called the most_spoken_languages in the world. It should return 10 or 20 most spoken languages in the world in descending order
 - Create a function called the most_populated_countries. It should return 10 or 20 most populated countries in descending order.
-
-🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 10](../10_Day_Loops/10_loops.md) | [Day 12 >>](../12_Day_Modules/12_modules.md)
