@@ -253,10 +253,3 @@ Enter number two: 3
      * If a person skills has only JavaScript and React, print('He is a front end developer'), if the person skills has Node, Python, MongoDB, print('He is a backend developer'), if the person skills has React, Node and MongoDB, Print('He is a fullstack developer'), else print('unknown title') - for more accurate results more conditions can be nested!
      * If the person is married and if he lives in Finland, print the information in the following format:
 
-```py
-    Asabeneh Yetayeh lives in Finland. He is married.
-```
-
-🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 8](../08_Day_Dictionaries/08_dictionaries.md) | [Day 10 >>](../10_Day_Loops/10_loops.md)
