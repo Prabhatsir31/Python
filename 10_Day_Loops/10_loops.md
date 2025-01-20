@@ -441,6 +441,3 @@ for number in range(6):
    2. Find the ten most spoken languages from the data
    3. Find the 10 most populated countries in the world
 
-🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 9](../09_Day_Conditionals/09_conditionals.md) | [Day 11 >>](../11_Day_Functions/11_functions.md)
