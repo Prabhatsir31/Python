@@ -186,7 +186,3 @@ print(two_power_of_five)  # 32
    ['Asabeneh Yetaeyeh', 'David Smith', 'Donald Trump', 'Bill Gates']
    ```
 7. Write a lambda function which can solve a slope or y-intercept of linear functions.
-
-🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 12](../12_Day_Modules/12_modules.md) | [Day 14>>](../14_Day_Higher_order_functions/14_higher_order_functions.md)
